@@ -91,7 +91,7 @@ age_ast_facet <- ggplot(df, aes(x = Age, y = AST, color = Sex)) +
 print("Generating Age vs AST faceted plot...")
 age_ast_facet
 # To view plots in RStudio, just call the objects:
-# category_dist
-# ast_alt_scatter
-# bil_boxplot
-# age_ast_facet
+category_dist
+ast_alt_scatter
+bil_boxplot
+age_ast_facet
